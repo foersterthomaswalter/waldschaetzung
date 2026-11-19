@@ -1,0 +1,17 @@
+[general]
+name=Waldschätzung (Bestand, Bringung & Unterabteilung)
+qgisMinimumVersion=3.22
+description=Forestry estimation from LiDAR data (nDOM & DTM): single tree detection, crown delineation, stand classes, harvesting classes by watershed, and forest subcompartments. / Forstliche Waldschätzung: Einzelbaumerkennung, Kronenabgrenzung, Bestandesklassen, Bringungsklassen nach Einzugsgebieten sowie forstliche Unterabteilungen.
+version=1.1.0
+author=Thomas Walter
+email=thomas.walter@vorarlberg.at
+about=Comprehensive QGIS processing plugin for digital forest management: (1) Stand: Stem count, DBH, timber volume (VFM) & stand classes per parcel; (2) Harvesting: Slope-based operational classes and watersheds; (3) Subcompartments: Forest stand & harvesting unit delineation. / Umfassende Werkzeugsammlung für die digitale Forsteinrichtung: (1) Bestand: Stammzahl, BHD, VFM & Bestandesklassen pro Grundstück; (2) Bringung: Hangneigungs-Betriebsklassen und Einzugsgebiete; (3) Unterabteilung: Forstliche Bestandes- & Bringungsgliederung.
+category=Analysis
+icon=icon.png
+experimental=False
+deprecated=False
+hasProcessingProvider=yes
+homepage=https://github.com
+repository=https://github.com
+tracker=https://github.com/issues
+tags=forestry,lidar,ndom,dgm,watershed,forstwirtschaft,waldschaetzung
